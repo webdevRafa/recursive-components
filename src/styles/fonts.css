@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'ArsenalSC';
+    font-weight: 400;
+    font-style: normal;
+    src: url('../assets/fonts//ArsenalSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ArsenalSC';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../assets/fonts/ArsenalSC-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ArsenalSC';
+    font-weight: 700;
+    font-style: italic;
+    src: url('../assets/fonts/ArsenalSC-BoldItalic.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'ArsenalSC';
+    font-weight: 400;
+    font-style: italic;
+    src: url('../assets/fonts/ArsenalSC-Italic.ttf') format('truetype');
+  }
